@@ -10,8 +10,8 @@ then deployed using AWS Elastic Benstalk.
 * CI/CD Pipeline
 - GitHub - commited the application files to a Github Repository
 - AWS EC2
-** AWS Beanstalk
-** Jenkins
+- AWS Beanstalk
+- Jenkins
 * Programming Languages for the Url-Shortner-Application
 ** Html
 ** CSS

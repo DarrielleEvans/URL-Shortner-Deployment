@@ -66,7 +66,7 @@ then deployed using AWS Elastic Benstalk.
 - Check the health status. The goal is to get an ok health status like below.
 <img width="1123" alt="Screen Shot 2023-08-27 at 7 44 28 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/182a0fff-fcc6-42cc-b3bd-df39b70cfc23">
 
-## click the domain name to see your application deployed
+## Click the domain name to see your application deployed
 
 
 

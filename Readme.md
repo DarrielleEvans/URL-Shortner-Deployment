@@ -21,8 +21,7 @@ then deployed using AWS Elastic Benstalk.
 - Bootstrap
 
 ## Recreate The Project
-- Create an Instance on AWS
-https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/6d440fed-b247-4e5d-b26c-d71cadebb737
+### Create an Instance on AWS
 - Use the Ubuntu OS
 - Be sure to use ports 80, 8080, 22
 - Run the command - Sudo Apt Update - to update your instance
@@ -34,6 +33,7 @@ https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/6d440f
 - Run the command - sudo cat /var/lib/jenkins/secrets/initialAdminPassword - to grab your admin password
 - Paste your admin password in the Jenkins Application on your browser
 ### On the Jenkins Application
+- install the pipeline utility steps plugin
 - Create your ci/cd pipeline
 <img width="950" alt="Screen Shot 2023-08-28 at 12 04 17 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/02aed8fa-a85c-4c14-8d82-8ea5d0d8b148">
 - Fork this code to your own GitHub Repository - code located here: https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/13de008b-d2bb-43e5-9bb7-bba16d6c510d
@@ -53,10 +53,10 @@ https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/6d440f
 <img width="324" alt="Screen Shot 2023-08-28 at 12 37 16 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/ed973c07-2b42-43de-94e2-d5686df8856d">
  Create Your Beanstalk Deployment
 <img width="1281" alt="Screen Shot 2023-08-28 at 12 36 30 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/f0138785-4060-4d9c-9212-e1085f2722a4">
-*** Upload your zip file to Beanstalk
-*** Check the health status. The goal is to get an ok health status like below.
+- Upload your zip file to Beanstalk
+- Check the health status. The goal is to get an ok health status like below.
 <img width="1123" alt="Screen Shot 2023-08-27 at 7 44 28 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/182a0fff-fcc6-42cc-b3bd-df39b70cfc23">
-** click the domain name to see your application deployed
+## click the domain name to see your application deployed
 
 
 

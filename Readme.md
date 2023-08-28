@@ -47,6 +47,7 @@ then deployed using AWS Elastic Benstalk.
 
 - Don't forget to generate a token on Jenkins
 ### Observe your pipeline
+
 <img width="1085" alt="Screen Shot 2023-08-27 at 12 21 52 AM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/807e7d66-01ca-4050-beba-f12f8fb738bc">
 
 - jenkins will package the files in a zipfile. You will see the pipeline pause. Go ahead and resume.

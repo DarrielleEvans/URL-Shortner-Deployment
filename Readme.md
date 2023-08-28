@@ -36,7 +36,7 @@ then deployed using AWS Elastic Benstalk.
 - install the pipeline utility steps plugin
 - Create your ci/cd pipeline
 <img width="950" alt="Screen Shot 2023-08-28 at 12 04 17 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/02aed8fa-a85c-4c14-8d82-8ea5d0d8b148">
-- Fork this code to your own GitHub Repository - code located here: https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/13de008b-d2bb-43e5-9bb7-bba16d6c510d
+- Fork this code to your own GitHub Repository: code located here: https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/13de008b-d2bb-43e5-9bb7-bba16d6c510d
 - Grab your URL From your Github Repository
 <img width="936" alt="Screen Shot 2023-08-28 at 12 09 28 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/388010ec-68de-4795-beae-a1979864c53a">
 - Paste this URL in Jenkins

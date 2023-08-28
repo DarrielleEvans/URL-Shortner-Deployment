@@ -8,7 +8,7 @@ then deployed using AWS Elastic Benstalk.
 
 ## Technologies Used
 * CI/CD Pipeline
-- GitHub - commited the application files to a Github Repository
+-- GitHub - commited the application files to a Github Repository
 - AWS EC2
 - AWS Beanstalk
 - Jenkins

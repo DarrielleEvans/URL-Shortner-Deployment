@@ -54,8 +54,8 @@ https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/13de00
 <img width="324" alt="Screen Shot 2023-08-28 at 12 37 16 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/ed973c07-2b42-43de-94e2-d5686df8856d">
 *** Create Your Beanstalk Deployment
 <img width="1281" alt="Screen Shot 2023-08-28 at 12 36 30 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/f0138785-4060-4d9c-9212-e1085f2722a4">
-**** Upload your zip file to Beanstalk
-**** Check the health status. The goal is to get an ok health status like below.
+*** Upload your zip file to Beanstalk
+*** Check the health status. The goal is to get an ok health status like below.
 <img width="1123" alt="Screen Shot 2023-08-27 at 7 44 28 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/182a0fff-fcc6-42cc-b3bd-df39b70cfc23">
 ** click the domain name to see your application deployed
 

@@ -5,7 +5,7 @@
 In this project, the application - URL-Shortner-Deployment is built and tested with Jenkins. After successful test in Jenkins, the application is 
 then deployed using AWS Elastic Benstalk.
 ## Project Plan
-![URL-Shortner drawio](https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/76a93434-32fc-4373-b194-9c1fda6660a6)
+![URL-Shortner](https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/db8cdb56-73c8-4317-8966-903a8652c7d3)
 
 
 ## Technologies Used

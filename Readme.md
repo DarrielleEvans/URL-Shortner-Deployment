@@ -28,7 +28,7 @@ then deployed using AWS Elastic Benstalk.
 - Be sure to use ports 80, 8080, 22
 - Run the command - Sudo Apt Update - to update your instance
 - Run the command - Sudo Apt Install openjdk-17-jre - to install JDK
-- Click here to ![install Jenkins](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
+- Click here to [install Jenkins](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
   
 - Go to your browser and type in yourinstancepublicIPAddress:8080
 - 

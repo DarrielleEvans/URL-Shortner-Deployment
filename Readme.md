@@ -5,6 +5,8 @@
 In this project, the application - URL-Shortner-Deployment is built and tested with Jenkins. After successful test in Jenkins, the application is 
 then deployed using AWS Elastic Benstalk.
 ## Project Plan
+![URL-Shortner drawio](https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/76a93434-32fc-4373-b194-9c1fda6660a6)
+
 
 ## Technologies Used
 ### CI/CD Pipeline
@@ -26,7 +28,8 @@ then deployed using AWS Elastic Benstalk.
 - Be sure to use ports 80, 8080, 22
 - Run the command - Sudo Apt Update - to update your instance
 - Run the command - Sudo Apt Install openjdk-17-jre - to install JDK
-- Click here to [install Jenkins] (https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
+- Click here to ![install Jenkins](https://www.jenkins.io/doc/book/installing/linux/#debianubuntu)
+  
 - Go to your browser and type in yourinstancepublicIPAddress:8080
 - 
 <img width="1218" alt="Screen Shot 2023-08-28 at 11 52 52 AM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/c3611a31-7be9-4a32-a69b-bcf42d957b3c">

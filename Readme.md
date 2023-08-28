@@ -40,8 +40,10 @@ then deployed using AWS Elastic Benstalk.
 - Fork this code to your own GitHub Repository: code located here: https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/13de008b-d2bb-43e5-9bb7-bba16d6c510d
 - Grab your URL From your Github Repository
 <img width="936" alt="Screen Shot 2023-08-28 at 12 09 28 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/388010ec-68de-4795-beae-a1979864c53a">
+
 - Paste this URL in Jenkins
 <img width="1090" alt="Screen Shot 2023-08-28 at 12 12 03 PM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/8de66420-bf80-463c-b367-7c812e886c61">
+
 - Don't forget to generate a token on Jenkins
 ### Observe your pipeline
 <img width="1085" alt="Screen Shot 2023-08-27 at 12 21 52 AM" src="https://github.com/DarrielleEvans/URL-Shortner-Deployment/assets/89504317/807e7d66-01ca-4050-beba-f12f8fb738bc">
